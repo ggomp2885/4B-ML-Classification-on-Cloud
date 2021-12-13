@@ -10,6 +10,9 @@ CIFAR 100 is a "toy" dataset that is already loaded into Keras, so we should be 
 
 
 Action Plan:
+
 1.
+
 1.
+
 1.
